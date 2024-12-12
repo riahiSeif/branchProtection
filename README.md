@@ -1,5 +1,2 @@
-How to Block Pushes to Protected Branches in Git Using a Pre-Push Hook
-This guide explains how to create a Git hook to block direct pushes to certain branches, such as protectedBranch. Follow the steps below:
-
-Steps:
-Navigate to the hooks directory:
+Git Hook: Block Pushes to Protected Branches
+This guide explains how to use a Git pre-push hook to prevent direct pushes to specific branches, like protectedBranch. This ensures better workflow management by enforcing pull requests for critical branches.
